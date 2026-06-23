@@ -38,6 +38,7 @@ Prisma AIRS gives you the enforcement plane. My lab work lives one layer beneath
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
+| **[panw-multicloud-lab](https://github.com/BadAsh99/panw-multicloud-lab)** | Enterprise network as code: Panorama + PA-VM HA pairs across Azure & GCP, full fabric + AKS/GKE + CI/CD | Terraform · Azure · GCP · K8s |
 | **[badash-killchain](https://github.com/BadAsh99/badash-killchain)** | LLM attack chain mapping, prompt injection, AI red team — AIRS-aligned | Python · Docker · FastAPI |
 | **[LLMGuardT2](https://github.com/BadAsh99/llmguardt2)** | OWASP LLM Top 10 scanner with semantic detection — catches paraphrased attacks | Flask · sentence-transformers · GCP |
 | **[CloudGuard](https://github.com/BadAsh99/cloudguard)** | Read-only cloud misconfiguration scanner — CIS Benchmarks + Terraform remediation | Python · Azure SDK · Docker |
