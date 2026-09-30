@@ -9,7 +9,8 @@
 **Sr. SASE & AI Security Consultant — Palo Alto Networks**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ash_Clements-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ash-clements-75b62b22/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-badash99.github.io-3B82F6?style=flat-square&logo=hugo&logoColor=white)](https://badash99.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashclements.dev-3B82F6?style=flat-square&logo=hugo&logoColor=white)](https://ashclements.dev)
+[![Lab](https://img.shields.io/badge/Lab-badash99.dev-10B981?style=flat-square&logoColor=white)](https://badash99.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-BadAsh99-1F2937?style=flat-square&logo=github&logoColor=white)](https://github.com/BadAsh99)
 
 </div>
@@ -30,7 +31,7 @@
 
 Prisma AIRS gives you the enforcement plane. My lab work lives one layer beneath it — mapping the attack chains, prompt injection vectors, and AI red team scenarios that AIRS is architected to stop. If you want to understand why the product works, build the thing it's defending against.
 
-**PSC by day. Red teamer by night.**
+**PSC by day. Competition red teamer in Gray Swan's frontier-lab-funded arena. Second place, Protegrity 2026 AI Pipeline Security Challenge.**
 
 ---
 
@@ -38,6 +39,7 @@ Prisma AIRS gives you the enforcement plane. My lab work lives one layer beneath
 
 | Project | What It Does | Stack |
 |---------|-------------|-------|
+| **[aegis-rag](https://github.com/BadAsh99/aegis-rag)** | Zero-exposure RAG: PII tokenized on ingest, stays tokenized through embed, store and inference. Second place, Protegrity 2026 AI Pipeline Security Challenge | Python · Protegrity DE · MiniLM |
 | **[panw-multicloud-lab](https://github.com/BadAsh99/panw-multicloud-lab)** | Enterprise network as code: Panorama + PA-VM HA pairs across Azure & GCP, full fabric + AKS/GKE + CI/CD | Terraform · Azure · GCP · K8s |
 | **[badash-killchain](https://github.com/BadAsh99/badash-killchain)** | LLM attack chain mapping, prompt injection, AI red team — AIRS-aligned | Python · Docker · FastAPI |
 | **[LLMGuardT2](https://github.com/BadAsh99/llmguardt2)** | OWASP LLM Top 10 scanner with semantic detection — catches paraphrased attacks | Flask · sentence-transformers · GCP |
@@ -77,16 +79,16 @@ Prisma AIRS gives you the enforcement plane. My lab work lives one layer beneath
 
 ---
 
-## #BadAshWednesdays
+## #BadAsh99
 
-Every Wednesday — tracking the pivot from manual SASE to agentic AI security workflows. No thought leadership fluff. Just what got built, what broke, and what it means for enterprise AI security at scale.
+Posts when there is something real to report on the pivot from SASE delivery to AI security. No thought leadership fluff. What got built, what broke, and what it means for enterprise AI security at scale.
 
-[![Week 02 — Deny All Isn't Security](https://img.shields.io/badge/%23BadAshWednesdays-Week_02_→-EF4444?style=flat-square)](https://badash99.github.io/badashwednesdays/)
+[![BadAsh99 posts](https://img.shields.io/badge/%23BadAsh99-latest_→-EF4444?style=flat-square)](https://badash99.dev/blog)
 
 > *"Blocking LLMs at the perimeter and calling it AI governance is the security equivalent of a 'No Trespassing' sign on a glass door."*
 
 **[→ Full series on LinkedIn](https://www.linkedin.com/in/ash-clements-75b62b22/)**
-**[→ All posts on the lab site](https://badash99.github.io/badashwednesdays/)**
+**[→ All posts on the lab site](https://badash99.dev/blog)**
 
 ---
 
@@ -104,6 +106,6 @@ Every Wednesday — tracking the pivot from manual SASE to agentic AI security w
 
 <div align="center">
 
-**[badash99.github.io](https://badash99.github.io)** · Built with Claude Code · `#BadAshWednesdays`
+**[ashclements.dev](https://ashclements.dev)** · **[badash99.dev](https://badash99.dev)** · `#BadAsh99`
 
 </div>
